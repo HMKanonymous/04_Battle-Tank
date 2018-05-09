@@ -1,2 +1,3 @@
-# 04_Battle-Tank
-An open game world game developed by UE4
+BT01 Intro, Notes & Assets
+BT02 Game Design Document (GDD)
+BT03 Setting Up a GitHub "Repo"
